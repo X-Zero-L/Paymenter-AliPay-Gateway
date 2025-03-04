@@ -1,6 +1,6 @@
 # 支付宝支付网关扩展 (AliPay Payment Gateway)
 
-适用于 [Paymenter](https://github.com/Paymenter/Paymenter) 的支付宝国际/国内支付网关扩展。
+适用于 [Paymenter](https://github.com/Paymenter/Paymenter) 的支付宝国内支付网关扩展。
 
 ![版本](https://img.shields.io/badge/版本-1.0.0-blue)
 
