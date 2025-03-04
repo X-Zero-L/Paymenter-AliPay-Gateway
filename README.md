@@ -4,6 +4,8 @@
 
 ![版本](https://img.shields.io/badge/版本-1.0.0-blue)
 
+[English Version](./README.en.md)
+
 ## 功能特性
 
 - 支持支付宝 PC 网页支付
