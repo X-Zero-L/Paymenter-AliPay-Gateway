@@ -1,6 +1,6 @@
 # AliPay Payment Gateway Extension
 
-A payment gateway extension for [Paymenter](https://github.com/Paymenter/Paymenter) that integrates with Alipay domestic payment services.
+A payment gateway extension for [Paymenter](https://github.com/Paymenter/Paymenter) that integrates with Alipay payment services for Mainland China.
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 
@@ -12,7 +12,6 @@ A payment gateway extension for [Paymenter](https://github.com/Paymenter/Payment
 - Support for sandbox and production environment switching
 - Support for synchronous return and asynchronous notification
 - Complete order information and product details transmission
-- Support for Alipay signature verification and encryption
 
 ## Requirements
 
